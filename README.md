@@ -61,17 +61,16 @@ Employees do not need Python, GitHub, or a GitHub account. Updater-aware
 Employee versions check this repository anonymously after the normal GUI
 opens. Offline use or a failed update check does not prevent catalogue work.
 
-## Upcoming data-source option
+## Data source options in v2.8.0 and later
 
-The v2.8.0 candidate adds **Odoo Live** alongside **Excel Workbooks**. Employees
+v2.8.0 adds **Odoo Live** alongside **Excel Workbooks**. Employees
 can explicitly connect or refresh using their own company-provided Odoo access,
 then generate catalogues with the usual workflow. Windows users can choose to
 remember their key with per-user encryption. Excel remains available for
 offline work, and Odoo does not connect automatically at startup.
 
-v2.8.0 is still awaiting validation and publication. Until a stable release is
-published, install the latest stable EXE from the Releases page. Company
-connection details, credentials, and inventory are never distributed here.
+Install the latest stable EXE from the Releases page. Company connection
+details, credentials, and inventory are never distributed here.
 
 ## Historical updater bootstrap
 
